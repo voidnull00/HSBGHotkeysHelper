@@ -1,0 +1,36 @@
+{
+    "hotkeys": {
+        "refresh_tavern": "r",
+        "freeze_tavern": "f",
+        "upgrade_tavern": "u",
+        "hero_power": "h"
+    },
+    "positions": {
+        "refresh_button": {
+            "x": 1126,
+            "y": 204,
+            "variance": 10
+        },
+        "freeze_button": {
+            "x": 1245,
+            "y": 178,
+            "variance": 10
+        },
+        "upgrade_button": {
+            "x": 792,
+            "y": 191,
+            "variance": 10
+        },
+        "hero_power_button": {
+            "x": 1140,
+            "y": 823,
+            "variance": 10
+        }
+    },
+    "mouse_settings": {
+        "default_speed": "medium",
+        "default_knots": 1,
+        "click_delay": 0.1,
+        "return_to_original": true
+    }
+}

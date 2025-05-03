@@ -1,22 +1,33 @@
+
 # Hearthstone Battlegrounds Hotkey Helper
 
-A Python script that provides quality-of-life hotkeys for Hearthstone Battlegrounds with human-like mouse movements and position memory.
+⚡ Optimized hotkeys for Hearthstone Battlegrounds with instant mouse actions.
 
-## Features
-
-- **Configurable Hotkeys**: Customize all hotkeys via `config.json`
-- **Position Memory**: Returns mouse to original position after each action
-- **Human-like Movements**: Uses Bezier curves for natural mouse motion
-- **Randomized Clicks**: Adds slight variance to click positions within target areas
-- **Adjustable Settings**: Control movement speed, delay, and behavior
-- **Hero Power Support**: Dedicated hotkey for hero power activation
+## Key Features
+- **Lightning-fast clicks** - Near-instant response time
+- **Pixel-perfect accuracy** - Optional position randomization
+- **Fully configurable** - All hotkeys adjustable via `config.json`
+- **Position memory** - Returns mouse after each action (toggleable)
+- **Reliable execution** - Consistent click registration
+- **Minimal setup** - Only 2 required dependencies
 
 ## Installation
+1. Install requirements:
+pip install -r requirements.txt
 
-1. **Prerequisites**:
-   - Python 3.11 or later
-   - Hearthstone running in 1920x1080 resolution (default positions are calibrated for this)
 
-2. **Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
+2. Run the helper:
+python HSBGHotkeysHelper.py
+
+
+## Default Hotkeys
+| Action           | Hotkey        |
+|------------------|---------------|
+| Refresh Tavern   | R             |
+| Freeze Tavern    | F             |
+| Upgrade Tavern   | U             |
+| Hero Power       | H             |
+| Quit Program     | Ctrl+Shift+Q  |
+| Reload Config    | Ctrl+Shift+R  |
+
+> All hotkeys can be customized in `config.json`

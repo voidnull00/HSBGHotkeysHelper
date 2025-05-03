@@ -2,7 +2,7 @@
 Hearthstone Battlegrounds Hotkey Script - Fast and Reliable
 ==========================================================
 Created by: Julian
-Updated: 05/05/2025 (Final optimized version)
+Updated: 03/05/2025 (optimized version)
 
 Features:
 - Instant mouse movements with precise clicks

@@ -7,7 +7,7 @@
 * **Lightning-fast clicks** - Near-instant response time
 * **Pixel-perfect accuracy** - Optional position randomization
 * **Fully configurable** - All hotkeys adjustable via `config.json`
-* **Position memory** - Returns mouse after each action (toggleable)
+* **Position memory** - Returns mouse after each action (configurable via config.json and reload with Ctrl+Shift+R)
 * **Reliable execution** - Consistent click registration
 * **Minimal setup** - Only 2 required dependencies
 
